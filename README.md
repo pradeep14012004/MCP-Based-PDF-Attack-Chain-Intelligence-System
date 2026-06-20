@@ -1,4 +1,4 @@
-# MCP-Based Context-Aware PDF Attack Chain Intelligence System
+# MCP-Based-PDF-Attack-Chain-Intelligence-System
 
 A research-grade security prototype that detects malicious PDF-driven attack chains by fusing multi-layer telemetry, behavioral baselines, threat intelligence, and LLM reasoning.
 
